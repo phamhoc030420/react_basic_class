@@ -1,0 +1,42 @@
+.list-todo-container {
+    button {
+        cursor: pointer;
+    }
+}
+
+.list-todo-content {
+    margin      : 20px auto;
+    border-top  : solid rgb(166, 166, 199);
+    width       : 500px;
+    border-left : solid rgb(166, 166, 199);
+    border-right: solid rgb(166, 166, 199);
+
+
+}
+
+.todo-child {
+    border-bottom : solid rgb(166, 166, 199);
+    padding-bottom: 15px;
+
+
+}
+
+.btn:hover {
+    background-color: red;
+}
+
+.btn {
+
+    color           : white;
+    background-color: blue;
+    border-radius   : 5px;
+    margin          : auto 10px;
+    height          : 26px;
+
+
+}
+
+.btn1 {
+    float     : right;
+    margin-top: 10px;
+}

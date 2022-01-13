@@ -1,0 +1,16 @@
+.list-user-container {
+    .title {
+        border-bottom: solid gray;
+        width        : 405px;
+        margin       : 0 auto;
+    }
+
+    .child {
+        width        : 400px;
+        border-right : solid gray;
+        border-bottom: solid gray;
+        border-left  : solid gray;
+        margin       : 0 auto;
+        height       : 40px;
+    }
+}
